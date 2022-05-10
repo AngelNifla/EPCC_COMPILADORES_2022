@@ -1,0 +1,11 @@
+Proceso Suma
+
+    -> "Ingresar numero:"
+    A <- Ingresa numero
+    -> "Ingresar numero:"
+    B <- Ingresa numero
+    C <- A+B    
+    -> "El resultado es: "
+    -> C
+
+Fin Proceso

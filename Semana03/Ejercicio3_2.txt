@@ -1,0 +1,7 @@
+Suma
+
+    A = Ingresar numero
+    B = Ingresar numero
+    C = A + B
+
+    Imprimir C

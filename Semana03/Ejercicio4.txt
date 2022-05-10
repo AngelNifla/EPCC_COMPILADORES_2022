@@ -1,0 +1,10 @@
+int main
+    int A
+    cin A
+    int B
+    cin B
+    int C = A + B
+    cin C = C / 2
+    int C = C * 20 / 100
+
+    return C
