@@ -1,0 +1,10 @@
+int main()                          //Funcion principal
+{
+    int num=0;                      //Variable int
+    string cadena="HOLA MUNDO";     /*Variable para la cadena*/
+    if (num==0)                     //Condicional
+    {
+        cout<<cadena;               /*Imprimiendo*/
+    }
+    return 0;                       //Fin Ejecucion
+}
